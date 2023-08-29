@@ -4,7 +4,7 @@ Tags: elementor, elementor addons, elementor widgets, elementor elements, addons
 Requires at least: 5.0
 Tested up to: 6.2
 Requires PHP: 5.6
-Stable tag: 1.6.2
+Stable tag: 1.6.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -188,6 +188,11 @@ Your new, beautifully designed website is right at your fingertips thanks to Qi 
     <li><a href="https://qodeinteractive.com/qi-addons-for-elementor/flip-box/" target="_blank">Flip Box</a> - Display easily configurable interactive two-sided boxes containing your content, with some transition animations applied.</li>
 </ul>
 
+<h4>Premium Infographics Addons:</h4>
+<ul>
+    <li><a href="https://qodeinteractive.com/qi-addons-for-elementor/icon-progress-bar/" target="_blank">Icon Progress Bar</a> - A straightforward way to display easily adjustable animated progress bars with icons or custom SVGs</li>
+</ul>
+
 <h4>Premium WooCommerce Addons:</h4>
 <ul>
     <li><a href="https://qodeinteractive.com/qi-addons-for-elementor/product-comparison/" target="_blank">Product Comparison</a> - A custom widget that lets you create comparative tables with products & relevant product info</li>
@@ -316,6 +321,10 @@ From wordpress.org
 
 
 == Changelog ==
+
+= 1.6.3 - 16-08-2023 =
+- Fixed 'Interactive Links' widget links click on iPad devices
+- Fixed unclosed promotion tab for widgets
 
 = 1.6.2 - 06-06-2023 =
 - Fixed problem with Contact Form 7 widget when no form exists

@@ -843,6 +843,8 @@ class QiAddonsForElementor_Framework_Elementor_Translator {
 					'content_classes' => 'qodef-elementor-admin-widget-promotion qodef-elementor-admin-style-' . $theme_style,
 				)
 			);
+			
+			$elementor_object->end_controls_section();
 		}
 	}
 

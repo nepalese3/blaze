@@ -2,6 +2,7 @@
 	width: 32px;
 	height: 32px;
 	display: inline-block;
+	background-size: 32px 32px;
 }
 .qodef-elementor-admin-widget-help {
 	margin-top: -3px;
